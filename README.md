@@ -172,13 +172,6 @@ This glyphicon has the name "glyphicon glyphicon-plus". That name is what I woul
 You can see all the code for the site in the `example.html` file included in this repository. This is a very simple implementation of Bootstrap's features. Have fun exploring the different Bootstrap elements and incorporating them into your projects. Remember, the key to Bootstrapping your site is adding the Bootstrap classes to HTML tags that enclose your content.
 
 ## Resources
-+ <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
-+ <a href="http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/">Bootstrap Carousel Tutorial</a>
+1 <a href="http://getbootstrap.com/">Twitter Bootstrap Documentation</a>
 
-
-
-
-
-##Resources
-+ <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
-+ <a href="http://expo.getbootstrap.com/">Bootstrap Expo</a>: A curated gallery of beautiful websites that use Bootstrap
+2 <a href="http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/">Bootstrap Carousel Tutorial</a>
