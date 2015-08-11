@@ -6,7 +6,7 @@
 ## Really Awesome Sites Built With Bootstrap
 
 **Vogue**
-<img src="https://s3.amazonaws.com/after-school-assets/vogue.png" alt="Vogue">
+<img src="https://s3.amazonaws.com/after-school-assets/vogue.png">
 
 **Lyft**
 <img src="https://s3.amazonaws.com/after-school-assets/lyft.png" alt="Lyft">
