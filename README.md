@@ -23,7 +23,7 @@ Obviously, you're wondering how you too can use the powers of Bootstrap to quick
 
 ### Step 1:
 
-Fork and Clone this lab into Nitrous. If you need a refresher, please use the `How To: Work On A Lab` for a complete walkthrough.
+Fork and Clone this lab into Nitrous. If you need a refresher, please use the `How To: Fork and Clone A Lab` for a complete walkthrough.
 
 ### Step 2:
 
