@@ -190,3 +190,7 @@ This glyphicon has the name "glyphicon glyphicon-plus". That name is what I woul
 
 ## Code Recap
 You can see all the code for the site in the `example.html` file included in this repository. This is a very simple implementation of Bootstrap's features. Have fun exploring the different Bootstrap elements and incorporating them into your projects. Remember, the key to Bootstrapping your site is adding the Bootstrap classes to HTML tags that enclose your content.
+
+## Share Share Share!
+
+Share your site with us! Screen shot your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**
