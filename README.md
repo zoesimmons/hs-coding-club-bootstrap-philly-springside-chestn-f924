@@ -23,7 +23,7 @@ Obviously, you're wondering how you too can use the powers of Bootstrap to quick
 
 ### Step 1:
 
-Open this lesson in Nitrous by clicking `Open in Nitrous` at the top of this page.
+Open this lesson in Nitrous by clicking `Open` at the top of this page.
 
 ### Step 2:
 
