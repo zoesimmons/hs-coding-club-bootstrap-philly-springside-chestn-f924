@@ -206,4 +206,4 @@ Make sure you enter `learn submit`, in Nitrous in terminal in order to mark this
 
 Share your site with us! Screen shot your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**
 
-<a href='https://learn.co/lessons/hs-coding-club-bootstrap' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-bootstrap' title='Bootstrap Baby!'>Bootstrap Baby!</a> on Learn.co and start learning to code for free.</p>
